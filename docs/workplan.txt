@@ -1,0 +1,52 @@
+Work plan
+---------
+
+General Idea: 
+-------------
+  Create a navigation app for the dorms. The features will be described in 
+features.txt file. 
+  We will create (draw) our own map for the dorms. it will have a game-like
+design with some nice drawings, pictures and maybe animations (e.g cats, people
+walking somewhere...).
+  The map will be binded to real GPS coordinates. The smartphone will receive 
+GEO position from the satellite and we will convert it to a point on our map 
+and show to the user. 
+  So the GUI must deal with presenting the map and the user location on the 
+user's smartphone. 
+
+Server: for notifications from the dorms environment. 
+Web Interface for notifications from BAR and from RACAZIM.
+- for administration we will add an email account to which they will send their
+messages.
+
+Steps of development and Milestones:
+------------------------------------
+
+
+
+Application design:
+-------------------
+
+
+
+Tasks for collaborators:
+------------------------
+
+current: 15/03/2017
+
+
+Vovan:
+1) Google how to bind our own map to GPS coordinates 
+   how to deal with maps in general
+2) "When computer science meets programming"
+   Shrotest path algorithm sutable for our app
+3) 
+
+Misha:
+1) Android GUI design
+2) Map design
+3) Security concepts
+
+Ilya:
+1) Project Planning & Managment
+2) 

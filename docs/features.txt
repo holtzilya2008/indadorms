@@ -3,9 +3,16 @@ Our Features -  file Add new ideas here
 
 Base features
 -------------
+0) Will show the user position on our own map.
+1) Will show the shortest path in the dorms from current GEO position to
+specified place. including the instructions how to get through the buildings
+2) 
+3) notifications from the dorms environment
+ - BAR
+ - RACAZIM
+ - ADMIN
 
 
 
 Additional Ideas
 ----------------
-

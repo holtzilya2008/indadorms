@@ -24,6 +24,17 @@ Steps of development and Milestones:
 
 
 
+Milestone 1: 
+Create android app that wiil recognize GEO position on a custom
+map.
+  - Draw very lite sketch on a grid-like canvas and bind it to GeoPosition.
+  - Step 1: MACRO app design
+    - Google how to implement map zooming and stuff and then decide on the 
+      code design for the maps implementation.
+    - 
+
+
+
 Application design:
 -------------------
 
@@ -34,13 +45,11 @@ Tasks for collaborators:
 
 current: 15/03/2017
 
-
 Vovan:
 1) Google how to bind our own map to GPS coordinates 
    how to deal with maps in general
 2) "When computer science meets programming"
    Shrotest path algorithm sutable for our app
-3) 
 
 Misha:
 1) Android GUI design
@@ -49,4 +58,4 @@ Misha:
 
 Ilya:
 1) Project Planning & Managment
-2) 
+2) Server-side and database
